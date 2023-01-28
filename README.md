@@ -13,6 +13,10 @@ These conventions include having:
     - sequentially ordered headings
     - a website title
 
+## Usage
+
+Use The following link to access the main page: [Horiseon Main Page](https://corbinspence.github.io/Horiseon-Main-Page/Develop/)
+
 ## Author
 
 Corbin Spence
