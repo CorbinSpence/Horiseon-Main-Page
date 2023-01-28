@@ -1,4 +1,4 @@
-# HTML Structure Fix
+# Horiseon Main Page
 
 This is the module 1 challenge for the Georgia Tech Boot Camp
 
