@@ -13,9 +13,13 @@ These conventions include having:
     - sequentially ordered headings
     - a website title
 
+## Screenshot
+
+![website-screenshot](/assets/images/website-screenshot.PNG)
+
 ## Usage
 
-Use The following link to access the main page: [Horiseon Main Page](https://corbinspence.github.io/Horiseon-Main-Page/Develop/)
+Use The following link to access the main page: [Horiseon Main Page](https://corbinspence.github.io/Horiseon-Main-Page/)
 
 ## Author
 
