@@ -15,7 +15,7 @@ These conventions include having:
 
 ## Screenshot
 
-![website-screenshot](/assets/images/website-screenshot.PNG)
+![website-screenshot](./assets/images/website-screenshot.PNG)
 
 ## Usage
 
